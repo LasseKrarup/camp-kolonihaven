@@ -42,7 +42,7 @@ const Bio = ({location}) => {
           <p>
             Vi er <strong>{author.name}</strong>{author?.summary || null}
             {` `}
-            Har du et tip, der skal deles på siden? Find os i campen!
+            Har du et tip, der skal deles på siden? Find os i campen eller skriv en mail til <strong>mail@camp-kolonihaven.dk</strong>
           </p>
         </>
       )}
